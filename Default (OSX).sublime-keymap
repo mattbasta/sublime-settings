@@ -1,5 +1,5 @@
 [
 { "keys": ["command+up"], "command": "swap_line_up" },
 { "keys": ["command+down"], "command": "swap_line_down" },
-{ "keys": ["command+shift+p"], "command": "prompt_add_folder" },
+{ "keys": ["command+shift+p"], "command": "prompt_add_folder" }
 ]
