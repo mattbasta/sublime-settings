@@ -14,5 +14,6 @@
 		"subpixel_antialias"
 	],
 	"tab_size": 4,
-	"index_exclude_patterns": ["*.log", "*.min.js", "*.min.css", "*.lock"]
+	"index_exclude_patterns": ["*.log", "*.min.js", "*.min.css", "*.lock"],
+	"folder_exclude_patterns": [".git", "node_modules"]
 }
